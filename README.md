@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, there!
+I'm Seol Jaemin.
+Currently learning C, JAVA and many other languages to be a backend dev.
+Trying to make some games with UE5 and Unity.
 
 <!--
 **Seol-JM/Seol-JM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
